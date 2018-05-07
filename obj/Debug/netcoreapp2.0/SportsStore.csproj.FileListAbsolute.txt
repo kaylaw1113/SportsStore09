@@ -1,0 +1,10 @@
+/Users/Kayla/Downloads/pro-asp.net-core-mvc-2-master 3/09 - SportsStore - Navigation/SportsStore/SportsStore/bin/Debug/netcoreapp2.0/SportsStore.deps.json
+/Users/Kayla/Downloads/pro-asp.net-core-mvc-2-master 3/09 - SportsStore - Navigation/SportsStore/SportsStore/bin/Debug/netcoreapp2.0/SportsStore.runtimeconfig.json
+/Users/Kayla/Downloads/pro-asp.net-core-mvc-2-master 3/09 - SportsStore - Navigation/SportsStore/SportsStore/bin/Debug/netcoreapp2.0/SportsStore.runtimeconfig.dev.json
+/Users/Kayla/Downloads/pro-asp.net-core-mvc-2-master 3/09 - SportsStore - Navigation/SportsStore/SportsStore/bin/Debug/netcoreapp2.0/SportsStore.dll
+/Users/Kayla/Downloads/pro-asp.net-core-mvc-2-master 3/09 - SportsStore - Navigation/SportsStore/SportsStore/bin/Debug/netcoreapp2.0/SportsStore.pdb
+/Users/Kayla/Downloads/pro-asp.net-core-mvc-2-master 3/09 - SportsStore - Navigation/SportsStore/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.csproj.CoreCompileInputs.cache
+/Users/Kayla/Downloads/pro-asp.net-core-mvc-2-master 3/09 - SportsStore - Navigation/SportsStore/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.AssemblyInfoInputs.cache
+/Users/Kayla/Downloads/pro-asp.net-core-mvc-2-master 3/09 - SportsStore - Navigation/SportsStore/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.AssemblyInfo.cs
+/Users/Kayla/Downloads/pro-asp.net-core-mvc-2-master 3/09 - SportsStore - Navigation/SportsStore/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.dll
+/Users/Kayla/Downloads/pro-asp.net-core-mvc-2-master 3/09 - SportsStore - Navigation/SportsStore/SportsStore/obj/Debug/netcoreapp2.0/SportsStore.pdb
